@@ -219,3 +219,5 @@ python bool.py index.hp
 
 5.Launch the interactive REPL shell:
 python bool.py
+
+<img src="Screenshot_contoh_Termux.jpg" width="400" alt="Example in Termux">
