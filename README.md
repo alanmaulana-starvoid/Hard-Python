@@ -113,7 +113,6 @@ code:
 import sys
 import re
 
-functions
 FUNCTION_MAP = {
     r'\brun#=': 'print',
     r'\bcountelment#=': 'len',
